@@ -1,7 +1,8 @@
-title: One Page Wonder - Jekyll
-description: A Jekyll Landing Page Theme
-sitename: Your Website
-baseurl: 
+title: B.E.L.F.A.G.O.R.
+description: A mini-website about the Fablab electronics barter day
+sitename: Belfagor
+permalink: pretty
+baseurl: '/belfagor'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
