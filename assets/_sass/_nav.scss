@@ -3,4 +3,7 @@ nav {
 	button { @extend .navbar-toggle; }
 	#menu { @extend .collapse, .navbar-collapse; }
   ul { @extend .nav, .navbar-nav; }
+  a:hover {
+  	color: red;
+  }
 }
