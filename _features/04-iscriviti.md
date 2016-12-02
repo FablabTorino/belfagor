@@ -3,7 +3,7 @@ id: iscriviti
 name: iscriviti adesso
 heading: # ("Titolo")
 subheading: # ("Sottotitolo")
-image: "img http://farm9.staticflickr.com/8296/7851583004_28f888ee94.jpg"
+image: "http://farm9.staticflickr.com/8296/7851583004_28f888ee94.jpg"
 ---
 
 
