@@ -1,6 +1,6 @@
 ---
-id: quando
-name: Regole: quasi niente
+id: regole
+name: le nostre storie
 heading: # ("Preparati: Belfagor arriva")
 subheading: # ("l'ultimo mercoledì prima di Natale.")
 image: "http://image.slidesharecdn.com/introtobitcoinpresentation-oct2014-141106090914-conversion-gate01/95/intro-to-bitcoin-presentation-by-roman-skaskiw-3-638.jpg"
