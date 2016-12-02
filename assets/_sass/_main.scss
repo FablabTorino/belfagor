@@ -3,6 +3,7 @@ main {
   section { overflow: hidden; }
 
   img {
+    width: 400px;
     @extend .img-circle;
     @extend .img-responsive;
 
@@ -20,6 +21,7 @@ main {
     h2 { font-size: 35px; }
 
     img {
+    	width: 400px;
       &.pull-left { margin-right: 20px; }
       &.pull-right { margin-left: 20px; }
     }
