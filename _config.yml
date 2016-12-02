@@ -2,7 +2,7 @@ title: B.E.L.F.A.G.O.R.
 description: A mini-website about the Fablab electronics barter day
 sitename: Belfagor
 permalink: pretty
-baseurl: '/belfagor'
+baseurl: ''
 sass:
   sass_dir: /assets/_sass
   style: :compressed
