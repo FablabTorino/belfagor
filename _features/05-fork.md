@@ -7,4 +7,6 @@ image: "http://www.occultopedia.com/images_/belphegor.jpg"
 ---
 
 
-B.E.L.F.A.G.O.R dove-vuoi-tu. Sei un makerspace, un fablab, un hackerspace che vuole ospitare il B.E.L.F.A.G.O.R nella tua zona? Facci una pull request!
+## <font color="red"> B.E.L.F.A.G.O.R </font> dove-vuoi-tu. 
+
+Sei un makerspace, un fablab, un hackerspace che vuole ospitare il <font color="red"> B.E.L.F.A.G.O.R </font> nella tua zona? Facci una pull request!
