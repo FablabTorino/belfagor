@@ -11,4 +11,4 @@ image: "http://image.slidesharecdn.com/introtobitcoinpresentation-oct2014-141106
 * Niente "Buon Natale"
 * Sì alle storie. La storia di quello che avresti voluto fare, e di quello che farai nel 2017. Magari conoscendo i futuri compagni di viaggio. 
 
-# Baratta i tuoi sogni con B.E.L.F.A.G.O.R!
+# Baratta i tuoi sogni con <font color="red"> B.E.L.F.A.G.O.R! </font>
