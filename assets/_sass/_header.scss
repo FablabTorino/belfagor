@@ -32,16 +32,25 @@ header {
   }
 
   @media(max-width:991px) {
+  	header {
+  	    height: 700px;
+  	}
     h1 { font-size: 105px; }
     h2 { font-size: 50px; }
   }
 
   @media(max-width:668px) {
+  	header {
+  	    height: 700px;
+  	}
     h1 { font-size: 70px; }
     h2 { font-size: 32px; }
   }
 
   @media(max-width:640px) {
+  	header {
+  	    height: 700px;
+  	}
     .headline { padding: 75px 0 25px 0; }
     h1 { font-size: 60px; }
     h2 { font-size: 30px; }
