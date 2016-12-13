@@ -3,7 +3,7 @@ id: fork
 name: fork B.E.L.F.A.G.O.R
 heading: # ("Titolo")
 subheading: # ("Sottotitolo")
-image: "http://www.occultopedia.com/images_/belphegor.jpg"
+image: "assets/images/belfagora.jpg"
 ---
 
 
