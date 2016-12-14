@@ -7,7 +7,7 @@ image: "http://image.slidesharecdn.com/introtobitcoinpresentation-oct2014-141106
 ---
 
 ## Pochissime regole: 
-* Niente Soldi, a parte della fee di registrazione di 5 € 
+* Niente Soldi, a parte della fee di 5 € per l'acquisto di bibende 
 * Niente "Buon Natale"
 * Sì alle storie. La storia di quello che avresti voluto fare, e di quello che farai nel 2017. Magari conoscendo i futuri compagni di viaggio. 
 
