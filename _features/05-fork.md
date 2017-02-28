@@ -3,7 +3,6 @@ id: fork
 name: fork B.E.L.F.A.G.O.R
 heading: # ("Titolo")
 subheading: # ("Sottotitolo")
-image: "assets/images/belfagora.jpg"
 ---
 
 
